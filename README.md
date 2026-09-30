@@ -33,4 +33,4 @@
 
  ## Conclusão
 
-<h3>Após a máquina ser treinada várias vezes, a rede neural descobriu os valores reais da fórmula, e o gráfico final exibiu o resultado da operação.</h3>
+<h3>Após a máquina ser treinada várias vezes, a rede neural descobriu os valores reais da fórmula e o gráfico final exibiu o resultado da operação.</h3>
